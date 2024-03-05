@@ -1,18 +1,34 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Currently building a "pipeline software" between security, automation and display for EVM. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Python / JS / TS / Node / Solidity.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Check here for [open source contributions list](/pr-list)
+
+Previously working with DeFi, L1<>L2 protocols and EIP development. 
+
+Here're few notable projects:
+
+* **ERC4626 implementation example** [vault-fun](https://github.com/vault-fun)
+    * Early stage ERC4626 contribution.
 
 
-[jekyll-organization]: https://github.com/jekyll
+* **ERC4626 implementation example** [stablecoin-fun](https://github.com/stablecoin-fun)
+    * Early stage ERC4626 contribution.
+
+
+* **SuperForm** [super-vaults](https://github.com/superform-xyz/super-vaults)
+    * Multitude of different wrappers around non-ERC4626 vaults allowing them to exist as ERC4626.
+
+
+* **SuperForm** [superform-core](https://github.com/superform-xyz/superform-core)
+    * Multichain yield protocol.
+
+
+* **SuperForm** [ERC1155A](https://github.com/superform-xyz/ERC1155A)
+    * Experimental extension over ERC1155A for SuperForm LP tokens.
