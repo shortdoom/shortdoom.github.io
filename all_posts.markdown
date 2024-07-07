@@ -1,5 +1,5 @@
 ---
 layout: all_posts
 title: all_posts
-permalink: /all-posts/
+permalink: /all_posts/
 ---
