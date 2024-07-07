@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Recently" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -22,8 +22,8 @@ layout: default
           </a>
         </h3>
 
-          {{ post.excerpt }}
-
+        {{ post.excerpt | truncate: 250 }}
+        
       </li>
       {%- endfor -%}
     </ul>
