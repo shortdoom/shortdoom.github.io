@@ -4,35 +4,16 @@ title: about
 permalink: /about/
 ---
 
-I am a software & blockchain engineer based in Poland.
+I am a software engineer based in Poland.
 
-Checkout [**Betterscan**](https://github.com/shortdoom/betterscan-v1) on github!
+I run the ["Ketman" project](htttps://ketman.org), a threat intelligence research group focused on insider threats and supply chain attacks. We build software solutions for investigative work.
 
-Python / Solidity / JS / TS / Node / SQL
+I develop open source tools, primarily focused on security and data.
 
-Dev / Security / Protocol Design / Program analysis / Data analysis
+Checkout [**gh-fake-analyzer**](https://github.com/shortdoom/gh-fake-analyzer)
 
-I started to keep track of my recent [OSS contributions](/pr_list)
+Checkout [**Betterscan**](https://github.com/shortdoom/betterscan-v1)
 
-Some of the public code:
+I've also started tracking my recent [OSS contributions](/pr_list)
 
-* **Immunefi-terminal** [immunefi-terminal](https://github.com/shortdoom/immunefi-terminal)
-    * Access all immunefi bug bounty data from locally hosted datasette (SQL)
-
-* **SuperForm** [super-vaults](https://github.com/superform-xyz/super-vaults)
-    * Multitude of different wrappers around non-ERC4626 vaults allowing them to exist as ERC4626.
-
-* **SuperForm** [superform-core](https://github.com/superform-xyz/superform-core)
-    * Multichain yield protocol.
-
-* **SuperForm** [ERC1155A](https://github.com/superform-xyz/ERC1155A)
-    * Experimental extension over ERC1155A for SuperForm LP tokens.
-
-* **ERC4626 implementation example** [vault-fun](https://github.com/vault-fun)
-    * Early stage ERC4626 contribution.
-
-* **ERC4626 implementation example** [stablecoin-fun](https://github.com/stablecoin-fun)
-    * Early stage ERC4626 contribution.
-
-* **Right-click NFT** [RightClick-NFT](https://github.com/RightClick-NFT)
-    * A weird little on-chain SVG image generator out of "stolen" NFTs with React
+Find me on Twitter [@blackbigswan](https://twitter.com/blackbigswan) and Github [@shortdoom](https://github.com/shortdoom)
